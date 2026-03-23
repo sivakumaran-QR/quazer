@@ -5,11 +5,9 @@ Shadow Key Detector With Inbuilt Commit Blocker
 
 Stop committing secrets. Automatically.
 
-This project is licensed under **Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)**.
+This project is licensed under **MIT**.
 
-**you may not modify or distribute modified versions until author allows**
-
-# Without author permission
+**you may modify with the permission of author allows**
 
 # Usage
 
