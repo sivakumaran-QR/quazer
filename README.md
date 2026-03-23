@@ -49,10 +49,10 @@ Structured Secret in .\keys\keymin.py.txt:1
 AWS Key in .\keys\keymin.py.txt:3
 
 # What Quazer Detects
-AWS Access Keys
-Private Keys
-Generic API Keys
-Structured Secrets (custom patterns)
+AWS Access Keys , 
+Private Keys  , 
+Generic API Keys  ,
+Structured Secrets (custom patterns)  ,
 High-entropy secrets
 
 # Risk Of Not Using Quazer 
