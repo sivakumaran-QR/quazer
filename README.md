@@ -1,12 +1,12 @@
 # Quazer
 
-Shadow Key Detector With Inbuild Commit Blocker
+Shadow Key Detector With Inbuilt Commit Blocker
 
-Stop Committing Secrets Before Attackers Harvest Now Decrypt Later
+Stop committing secrets. Automatically.
 
 # Usage
 
-CLI-tool For Detect  Shadow Keys and Block Commit If Shadow Key Exist With Low False Rate
+Quazer- Detects and blocks API keys, tokens, and sensitive data before they hit Git.
 
 # Installation  Steps
 pip install git+https://github.com/sivakumaran-QR/quazer.git
@@ -68,6 +68,5 @@ High-entropy secrets
 # Risk Of Not Using Quazer 
 Attackers Can Harvest Now Decrypt Later
 Total Number Of Shadow keys apporx in world are 1.1B KEYS 
-
 
 
