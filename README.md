@@ -1,8 +1,8 @@
 # Quazer
-[![Build Status](https://img.shields.io/github/actions/workflow/status/YOUR_USERNAME/Quazer/main.yml?style=flat-square)](https://github.com/YOUR_USERNAME/Quazer/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/sivakumaran-QR/Quazer/main.yml?style=flat-square)](https://github.com/sivakumaran-QR/Quazer/actions)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
-[![Coverage](https://img.shields.io/codecov/c/github/YOUR_USERNAME/Quazer.svg?style=flat-square)](https://codecov.io/gh/YOUR_USERNAME/Quazer)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/Quazer?style=flat-square)](https://github.com/YOUR_USERNAME/Quazer/stargazers)
+[![Coverage](https://img.shields.io/codecov/c/github/sivakumaran-QR/Quazer.svg?style=flat-square)](https://codecov.io/gh/sivakumaran-QR/Quazer)
+[![GitHub stars](https://img.shields.io/github/stars/sivakumaran-QR/Quazer?style=flat-square)](https://github.com/sivakumaran-QR/Quazer/stargazers)
 
 Shadow Key Detector With Inbuilt Commit Blocker
 
