@@ -33,7 +33,8 @@ def scan_file(filepath):
                     results.append((filepath, i, "Private Key"))
                 if re.search(GENERIC_API_KEY, line):
                     results.append((filepath, i, "Generic API Key"))
-
+                if re.search(STRUCTURED_KEY, line):
+                   results.append((filepath, i, "Structured Secret"))
     except Exception:
         pass
 
