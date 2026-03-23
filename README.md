@@ -1,7 +1,6 @@
 # Quazer
  [![Build Status](https://img.shields.io/github/actions/workflow/status/username/repo/main.yml?style=flat-square)](https://github.com/username/repo/actions)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/pypi/v/your-package-name.svg?style=flat-square)](https://pypi.org/project/your-package-name/)
 [![Coverage](https://img.shields.io/codecov/c/github/username/repo.svg?style=flat-square)](https://codecov.io/gh/username/repo)
 [![GitHub stars](https://img.shields.io/github/stars/username/repo?style=flat-square)](https://github.com/username/repo/stargazers)
 
