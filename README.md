@@ -7,7 +7,7 @@ Stop committing secrets. Automatically.
 
 This project is licensed under **MIT**.
 
-**you may modify with the permission of author allows**
+**you can modify with the permission of author**
 
 # Usage
 
