@@ -1,6 +1,7 @@
 # Quazer
 
-Shadow Key Detector With Inbuild Commit Blocker 
+Shadow Key Detector With Inbuild Commit Blocker
+
 Stop Committing Secrets Before Attackers Harvest Now Decrypt Later
 
 # Usage
