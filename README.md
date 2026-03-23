@@ -1,34 +1,22 @@
-# QUAZER
+# Quazer
 Shadow Key detector with inbuild commit blocker 
-# USAGE
+# Usage
 CLI-tool for Detect  shadow keys and block commit if shadow key exist with low false rate
 
-# INSTALLATION STEPS
+# Installation  Steps
 pip install git+https://github.com/sivakumaran-QR/quazer.git
-
 (Go to your project folder)
-
 cd your-project-folder
-
-Initialize Git (if not already)
-
+Initsalize Git (if not already)
 git init
-
- Enable Quazer
- 
+Enable Quazer
 python -m quazer init
-
 This installs a Git pre-commit hook to protect your project.
-
 (Usage)
 Scan your project manually
-
 python -m quazer run
-
 Automatic protection (recommended)
-
 Once initialized, Quazer runs automatically on every commit:
-
 git add .
 git commit -m "your message"
 
@@ -37,20 +25,14 @@ Attackers Can Harvest Now Decrypt Later
 Total Number Of Shadow keys apporx in world are 1.1B KEYS 
 
 # DEMO (HOW QUAZER WORKS)
-
 C:\Users\siva>cd desktop
-
 C:\Users\siva\Desktop>cd test
-
 C:\Users\siva\Desktop\test>git init
 Reinitialized existing Git repository in C:/Users/siva/Desktop/test/.git/
-
 C:\Users\siva\Desktop\test>python -m quazer init
 ✅ Quazer hook installed
-
 C:\Users\siva\Desktop\test>python -m quazer run
 ❌ Secrets detected! Commit blocked.
-
 AWS Key in .\text.py.txt:1
 Private Key in .\text.py.txt:2
 Structured Secret in .\keys\keymin.py.txt:1
