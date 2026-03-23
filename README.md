@@ -27,10 +27,6 @@ Once initialized, Quazer runs automatically on every commit:
 git add .
 git commit -m "your message"
 
-# Risk Of Not Using Quazer 
-Attackers Can Harvest Now Decrypt Later
-Total Number Of Shadow keys apporx in world are 1.1B KEYS 
-
 # Demo (How Quazer Works)
 C:\Users\siva>cd desktop
 
@@ -51,4 +47,17 @@ AWS Key in .\text.py.txt:1
 Private Key in .\text.py.txt:2
 Structured Secret in .\keys\keymin.py.txt:1
 AWS Key in .\keys\keymin.py.txt:3
+
+# What Quazer Detects
+AWS Access Keys
+Private Keys
+Generic API Keys
+Structured Secrets (custom patterns)
+High-entropy secrets
+
+# Risk Of Not Using Quazer 
+Attackers Can Harvest Now Decrypt Later
+Total Number Of Shadow keys apporx in world are 1.1B KEYS 
+
+
 
