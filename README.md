@@ -1,5 +1,5 @@
 # Quazer
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  [![GitHub stars](https://img.shields.io/github/stars/sivakumaran-QR/quazer?style=social)](https://github.com/sivakumaran-QR/quazer/stargazers)
 Shadow Key Detector With Inbuilt Commit Blocker
 
 Stop committing secrets. Automatically.
