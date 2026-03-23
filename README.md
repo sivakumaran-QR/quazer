@@ -3,10 +3,10 @@
 Shadow Key Detector With Inbuilt Commit Blocker
 
 Stop committing secrets. Automatically.
-**License Note:**  
+
 This project is licensed under **Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)**.
 
-You are free to use and share Quazer **as-is**, but **you may not modify or distribute modified versions**
+**you may not modify or distribute modified versions until author allows**
 
 # Without author permission
 
