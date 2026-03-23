@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 [![Coverage](https://img.shields.io/codecov/c/github/YOUR_USERNAME/Quazer.svg?style=flat-square)](https://codecov.io/gh/YOUR_USERNAME/Quazer)
 [![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/Quazer?style=flat-square)](https://github.com/YOUR_USERNAME/Quazer/stargazers)
+
 Shadow Key Detector With Inbuilt Commit Blocker
 
 Stop committing secrets. Automatically.
