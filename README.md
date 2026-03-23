@@ -1,9 +1,11 @@
 # Quazer
 
-Shadow Key detector with inbuild commit blocker 
+Shadow Key Detector With Inbuild Commit Blocker 
+Stop Committing Secrets Before Attackers Harvest Now Decrypt Later
+
 # Usage
 
-CLI-tool for Detect  shadow keys and block commit if shadow key exist with low false rate
+CLI-tool For Detect  Shadow Keys and Block Commit If Shadow Key Exist With Low False Rate
 
 # Installation  Steps
 pip install git+https://github.com/sivakumaran-QR/quazer.git
