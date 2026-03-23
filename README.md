@@ -9,7 +9,7 @@ Stop committing secrets. Automatically.
 Quazer- Detects and blocks API keys, tokens, and sensitive data before they hit Git. 
 
 # Installation  Steps
-pip install git+https://github.com/sivakumaran-QR/quazer.git
+pip install git+https://github.com/sivakumaran-QR/quazer.git 
 
 
 (Go to your project folder)
