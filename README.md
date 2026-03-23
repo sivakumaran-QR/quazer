@@ -1,5 +1,5 @@
 # Quazer
-[![Build Status](https://img.shields.io/github/actions/workflow/status/sivakumaran-QR/Quazer/main.yml?style=flat-square)](https://github.com/sivakumaran-QR/Quazer/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/sivakumaran-QR/Quazer/hello.yml?style=flat-square)](https://github.com/sivakumaran-QR/Quazer/actions)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 [![Coverage](https://img.shields.io/codecov/c/github/sivakumaran-QR/Quazer.svg?style=flat-square)](https://codecov.io/gh/sivakumaran-QR/Quazer)
 [![GitHub stars](https://img.shields.io/github/stars/sivakumaran-QR/Quazer?style=flat-square)](https://github.com/sivakumaran-QR/Quazer/stargazers)
