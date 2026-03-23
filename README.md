@@ -21,12 +21,14 @@ git init
 
 
 Enable Quazer
+
 python -m quazer init
 This installs a Git pre-commit hook to protect your project.
 
 
 (Usage)
 Scan your project manually
+
 python -m quazer run
 Automatic protection (recommended)
 
