@@ -11,20 +11,25 @@ CLI-tool For Detect  Shadow Keys and Block Commit If Shadow Key Exist With Low F
 # Installation  Steps
 pip install git+https://github.com/sivakumaran-QR/quazer.git
 
+
 (Go to your project folder)
 cd your-project-folder
 
+
 Initsalize Git (if not already)
 git init
+
 
 Enable Quazer
 python -m quazer init
 This installs a Git pre-commit hook to protect your project.
 
+
 (Usage)
 Scan your project manually
 python -m quazer run
 Automatic protection (recommended)
+
 
 Once initialized, Quazer runs automatically on every commit:
 git add .
