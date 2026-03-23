@@ -6,7 +6,7 @@ Stop committing secrets. Automatically.
 
 # Usage
 
-Quazer- Detects and blocks API keys, tokens, and sensitive data before they hit Git.
+Quazer- Detects and blocks API keys, tokens, and sensitive data before they hit Git. 
 
 # Installation  Steps
 pip install git+https://github.com/sivakumaran-QR/quazer.git
