@@ -1,5 +1,5 @@
 # Quazer
-
+ 
 Shadow Key Detector With Inbuilt Commit Blocker
 
 Stop committing secrets. Automatically.
