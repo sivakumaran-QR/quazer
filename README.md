@@ -1,5 +1,5 @@
 # Quazer
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-001f3f?style=flat&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
 Shadow Key Detector With Inbuilt Commit Blocker
 
 Stop committing secrets. Automatically.
