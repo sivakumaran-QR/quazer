@@ -5,4 +5,4 @@ def shannon_entropy(data):
     return -sum([p * math.log(p) / math.log(2.0) for p in prob])
 
 def is_high_entropy(string):
-    return shannon_entropy(string) > 4.5
+    return shannon_entropy(string) > 4.5  
